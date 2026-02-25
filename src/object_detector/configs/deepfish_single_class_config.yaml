@@ -1,6 +1,6 @@
-train: ..\..\..\Datasets\Deepfish_YOLO\train\images
-val: ..\..\..\Datasets\Deepfish_YOLO\val\images
-test: ..\..\..\Datasets\Deepfish_YOLO\test\images
+train: ..\..\..\Datasets\Deepfish\train\images
+val: ..\..\..\Datasets\Deepfish\val\images
+test: ..\..\..\Datasets\Deepfish\test\images
 
 nc: 1
 names: ['Fish']
